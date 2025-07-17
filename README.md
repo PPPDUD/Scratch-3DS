@@ -27,7 +27,7 @@ As this is in a very W.I.P state, you will encounter many bugs, crashes, and thi
 - Some blocks may lead to crashing / unintended behavior. (Please open an issue if you know a block that's causing problems.)
 
 
-## Unimplimented blocks
+## Unimplemented blocks
 - All say and think blocks
 - All Costume Effects
 - Cloud variables
